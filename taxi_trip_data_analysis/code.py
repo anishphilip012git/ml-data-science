@@ -8,11 +8,6 @@ Original file is located at
 
 # Advanced Statistical Analysis and Predictive Modeling of NYC Taxi Trip Data: A Comprehensive Approach to Data Cleaning, Outlier Detection, Interpolation, and Hypothesis Testing
 
-## Tean Memebers
-1. Manthan Singh (115939891)
-2. Bindu Bhargava Reddy Chintam(115824906)
-3. Anish Philip (115675106)
-4. Hein Zaw (115344093)
 
 # 3.1.0 Import Required Packages, Libraries and Datasets
 """
